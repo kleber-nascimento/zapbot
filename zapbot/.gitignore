@@ -1,0 +1,11 @@
+wppconnect-server/
+wppconnect_tokens/
+wppconnect_userDataDir/
+docker/wppconfig.js
+.env
+*.pyc
+__pycache__
+x.png
+data/
+sql_app.db
+.aider*

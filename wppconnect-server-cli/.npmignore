@@ -1,0 +1,13 @@
+.*
+*.tgz
+*.zip
+/*.png
+/log
+/src
+/tokens
+/WhatsAppImages
+license-checker-config.json
+LICENSE.header
+nodemon.json
+requests.http
+yarn.lock
